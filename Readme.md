@@ -40,7 +40,7 @@ cute-files
 Make the current folder available on `<yourip>:12345` on the local network:
 
 ```bash
-cute-files --port 12345
+cute-files --port 12345 --launch
 ```
 
 ### Notes
